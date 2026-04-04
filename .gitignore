@@ -1,49 +1,21 @@
 # ====================================================================
 # STANDARD PYTHON IGNORES
 # ====================================================================
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
 *.so
-
-# Distribution / packaging
 .Python
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
 *.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# Environments & Virtual Envs
-.env
-.envrc
 .venv
-env/
 venv/
 ENV/
-
-# IDE Settings (VS Code, Jupyter, etc.)
+.env
 .vscode/
 .ipynb_checkpoints
 .idea/
-*.swp
-
-# Operating System Files
 .DS_Store
 Thumbs.db
 
@@ -51,19 +23,29 @@ Thumbs.db
 # CUSTOM PROJECT RULES: INDONESIAN MID-CAP ANALYZER
 # ====================================================================
 
-# 1. SECURITY: Keep your local paths and API keys private
-config.py
+# 1. SECURITY
+# Keep your local paths and API keys private
+2_Code/config.py
 
-# 2. STORAGE: Ignore heavy/original data folders
-# These match your RAW_DATA_PATH and INGESTED_DATA_PATH variables
-Raw_Data/
-Ingested_Data/
-Clean_Master_Data/
-Daftar_Saham/
+# 2. DATA HIDING (Protecting Raw & Ingested Files)
+# We ignore the *contents* of these folders to keep GitHub clean
+1_Data/0_Raw_Data/**/*
+1_Data/1_Ingestion_Ringkasan_Perdagangan_Saham/**/*
+1_Data/3_Cleaning_Data/**/*
+
+# 3. FOLDER VISIBILITY (The .gitkeep Trick)
+# We tell Git NOT to ignore .gitkeep files so the folders stay visible
+!1_Data/**/.gitkeep
+
+# 4. PORTFOLIO DATA (The Exception)
+# We want to show your Masked Data so people see your work!
+!1_Data/2_Masked_Data/
+!1_Data/2_Masked_Data/**/*
+!1_Data/2_Masked_Data/**/*.csv
+
+# 5. GLOBAL SAFETY NET
+# Ignore all Excel and CSV files everywhere else by default
 *.xlsx
 *.csv
-
-# 3. EXCEPTION: Force-include only the Masked CSVs for your portfolio
-# We ignore all CSVs above, then allow only the ones in Masked_Data
-!Masked_Data/
-!Masked_Data/*.csv
+# Re-confirm the exception for your Masked folder
+!1_Data/2_Masked_Data/**/*.csv
