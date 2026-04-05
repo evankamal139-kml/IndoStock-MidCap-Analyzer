@@ -33,7 +33,7 @@ Thumbs.db
 *.xlsx
 *.csv
 
-# Specific data paths to ignore
+# Specific data paths to ignore to keep the repository clean
 1_Data/0_Raw_Data/**/*.xlsx
 1_Data/0_Raw_Data/**/*.csv
 1_Data/1_Ingestion_Ringkasan_Perdagangan_Saham/**/*
@@ -44,7 +44,7 @@ Thumbs.db
 # 3. EXCEPTIONS (Files we WANT to show)
 # ====================================================================
 
-# Keep .gitkeep files everywhere to maintain folder structure
+# Keep .gitkeep files everywhere to maintain folder structure visibility
 !**/.gitkeep
 
 # Keep all contents of the Masked Data folder for your portfolio
