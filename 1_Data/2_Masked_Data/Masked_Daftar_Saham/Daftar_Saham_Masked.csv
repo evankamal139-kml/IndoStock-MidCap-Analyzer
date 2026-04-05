@@ -1,0 +1,957 @@
+No,Kode,Saham,Papan Pencatatan
+1,Saham_001,1.924.688.333,Utama
+2,Saham_002,3.935.892.857,Pemantauan Khusus
+3,Saham_003,620.806.680,Pemantauan Khusus
+4,Saham_004,2.753.165.000,Utama
+5,Saham_005,17.120.389.700,Utama
+6,Saham_006,17.675.160.000,Pengembangan
+7,Saham_007,589.896.800,Pengembangan
+8,Saham_008,8.407.608.979,Utama
+9,Saham_009,9.311.800.000,Utama
+10,Saham_010,6.449.463.636,Pemantauan Khusus
+11,Saham_011,612.248.000,Pengembangan
+12,Saham_012,20.073.474.600,Utama
+13,Saham_013,720.000.000,Pengembangan
+14,Saham_014,2.700.713.744,Pengembangan
+15,Saham_015,507.665.055,Pengembangan
+16,Saham_016,3.816.000.000,Pemantauan Khusus
+17,Saham_017,2.191.870.558,Pemantauan Khusus
+18,Saham_018,5.001.552.516,Pengembangan
+19,Saham_019,434.000.000,Pengembangan
+20,Saham_020,1.080.000.000,Pengembangan
+21,Saham_021,41.524.501.700,Utama
+22,Saham_022,3.354.175.000,Pengembangan
+23,Saham_023,24.030.764.725,Utama
+24,Saham_024,3.546.466.661,Pengembangan
+25,Saham_025,11.766.313.488,Pengembangan
+26,Saham_026,1.075.760.000,Pengembangan
+27,Saham_027,1.362.671.400,Pengembangan
+28,Saham_028,22.699.326.779,Utama
+29,Saham_029,3.174.339.029,Pengembangan
+30,Saham_030,3.750.000.000,Pengembangan
+31,Saham_031,7.341.430.976,Utama
+32,Saham_032,446.674.175,Pengembangan
+33,Saham_033,7.840.000.000,Pemantauan Khusus
+34,Saham_034,13.722.768.400,Utama
+35,Saham_035,348.386.472,Pengembangan
+36,Saham_036,384.000.000,Pengembangan
+37,Saham_037,1.348.780.500,Utama
+38,Saham_038,40.483.553.140,Utama
+39,Saham_039,1.400.000.000,Pengembangan
+40,Saham_040,8.958.380.460,Pemantauan Khusus
+41,Saham_041,19.649.411.888,Utama
+42,Saham_042,1.277.992.036,Pengembangan
+43,Saham_043,3.691.137.517,Utama
+44,Saham_044,2.315.361.355,Pengembangan
+45,Saham_045,4.819.733.000,Utama
+46,Saham_046,44.014.333.126,Pengembangan
+47,Saham_047,19.753.494.636,Utama
+48,Saham_048,1.800.000.000,Pengembangan
+49,Saham_049,3.934.592.500,Utama
+50,Saham_050,661.784.520,Pengembangan
+51,Saham_051,1.300.000.000,Pemantauan Khusus
+52,Saham_052,353.220.780,Utama
+53,Saham_053,122.042.299.500,Utama
+54,Saham_054,21.512.953.877,Utama
+55,Saham_055,185.819.884.852,Pengembangan
+56,Saham_056,1.645.796.054,Pengembangan
+57,Saham_057,4.049.189.100,Pengembangan
+58,Saham_058,36.924.339.786,Utama
+59,Saham_059,150.043.411.587,Utama
+60,Saham_060,8.479.490.328,Pengembangan
+61,Saham_061,13.894.099.969,Utama
+62,Saham_062,13.216.977.523,Utama
+63,Saham_063,42.618.850.927,Utama
+64,Saham_064,17.926.071.041,Pengembangan
+65,Saham_065,1.429.915.525,Pengembangan
+66,Saham_066,9.675.817.341,Utama
+67,Saham_067,51.351.733.883,Pemantauan Khusus
+68,Saham_068,9.647.311.150,Utama
+69,Saham_069,15.039.383.620,Utama
+70,Saham_070,23.731.287.132,Utama
+71,Saham_071,86.068.156.705,Pemantauan Khusus
+72,Saham_072,592.280.000,Pemantauan Khusus
+73,Saham_073,608.175.716,Pemantauan Khusus
+74,Saham_074,6.073.369.498,Utama
+75,Saham_075,63.710.196.917,Pengembangan
+76,Saham_076,5.028.669.376,Pemantauan Khusus
+77,Saham_077,2.502.100.000,Utama
+78,Saham_078,3.000.000.000,Utama
+79,Saham_079,10.416.229.249,Utama
+80,Saham_080,14.865.343.101,Utama
+81,Saham_081,7.513.992.252,Pemantauan Khusus
+82,Saham_082,167.708.902.705,Utama
+83,Saham_083,34.806.467.881,Pengembangan
+84,Saham_084,25.940.187.103,Pemantauan Khusus
+85,Saham_085,873.937.142,Pemantauan Khusus
+86,Saham_086,17.921.635.680,Pengembangan
+87,Saham_087,92.399.999.996,Utama
+88,Saham_088,1.159.200.024,Pengembangan
+89,Saham_089,16.583.997.586,Utama
+90,Saham_090,3.354.120.000,Pengembangan
+91,Saham_091,173.416.832.509,Pemantauan Khusus
+92,Saham_092,24.890.783.784,Utama
+93,Saham_093,75.357.433.911,Utama
+94,Saham_094,35.819.545.925,Utama
+95,Saham_095,2.343.750.000,Pengembangan
+96,Saham_096,2.673.995.362,Pengembangan
+97,Saham_097,9.884.153.240,Pengembangan
+98,Saham_098,450.056.980,Pengembangan
+99,Saham_099,141.784.040.338,Utama
+100,Saham_100,979.110.000,Pengembangan
+101,Saham_101,93.747.218.044,Utama
+102,Saham_102,21.171.365.812,Utama
+103,Saham_103,19.517.921.842,Utama
+104,Saham_104,2.616.500.000,Pengembangan
+105,Saham_105,3.651.978.177,Pemantauan Khusus
+106,Saham_106,46.277.496.376,Pemantauan Khusus
+107,Saham_107,36.822.665.755,Pemantauan Khusus
+108,Saham_108,720.000.000,Pengembangan
+109,Saham_109,10.536.203.690,Utama
+110,Saham_110,4.498.997.362,Utama
+111,Saham_111,2.640.452.000,Utama
+112,Saham_112,15.494.436.593,Pengembangan
+113,Saham_113,371.335.392.068,Utama
+114,Saham_114,24.617.054.642,Pengembangan
+115,Saham_115,18.235.266.754,Utama
+116,Saham_116,31.525.291.000,Utama
+117,Saham_117,33.333.335.000,Utama
+118,Saham_118,833.440.000,Pemantauan Khusus
+119,Saham_119,2.086.950.000,Utama
+120,Saham_120,595.000.000,Pengembangan
+121,Saham_121,31.183.464.900,Pengembangan
+122,Saham_122,3.984.520.457,Utama
+123,Saham_123,1.000.000.000,Pengembangan
+124,Saham_124,3.960.361.250,Utama
+125,Saham_125,306.338.500,Pengembangan
+126,Saham_126,6.696.354.391,Utama
+127,Saham_127,10.685.124.441,Pemantauan Khusus
+128,Saham_128,8.956.361.206,Pemantauan Khusus
+129,Saham_129,70.000.000,Pemantauan Khusus
+130,Saham_130,4.871.214.021,Pemantauan Khusus
+131,Saham_131,16.398.000.000,Utama
+132,Saham_132,59.572.382.787,Pengembangan
+133,Saham_133,5.683.175.151,Pengembangan
+134,Saham_134,800.371.500,Pengembangan
+135,Saham_135,18.535.695.255,Utama
+136,Saham_136,1.230.839.821,Pengembangan
+137,Saham_137,3.141.390.962,Pengembangan
+138,Saham_138,687.266.666,Pengembangan
+139,Saham_139,40.687.434.244,Utama
+140,Saham_140,5.541.165.000,Pengembangan
+141,Saham_141,10.365.854.185,Utama
+142,Saham_142,5.638.246.600,Pengembangan
+143,Saham_143,800.659.050,Utama
+144,Saham_144,48.198.111.100,Utama
+145,Saham_145,16.721.891.185,Pengembangan
+146,Saham_146,14.184.000.000,Utama
+147,Saham_147,7.651.007.132,Utama
+148,Saham_148,331.129.952,Pengembangan
+149,Saham_149,1.857.135.500,Pengembangan
+150,Saham_150,10.599.842.400,Utama
+151,Saham_151,7.705.523.200,Utama
+152,Saham_152,1.850.000.000,Pengembangan
+153,Saham_153,1.120.000.000,Pengembangan
+154,Saham_154,4.272.964.279,Pengembangan
+155,Saham_155,1.334.333.000,Pengembangan
+156,Saham_156,3.493.875.000,Pengembangan
+157,Saham_157,7.298.500.000,Utama
+158,Saham_158,43.521.913.019,Pemantauan Khusus
+159,Saham_159,3.350.000.000,Pengembangan
+160,Saham_160,61.426.451.483,Utama
+161,Saham_161,26.346.230.250,Utama
+162,Saham_162,2.708.640.000,Pengembangan
+163,Saham_163,15.950.000.000,Utama
+164,Saham_164,1.286.539.792,Pengembangan
+165,Saham_165,17.226.975.700,Utama
+166,Saham_166,2.015.208.720,Pengembangan
+167,Saham_167,4.668.671.400,Pemantauan Khusus
+168,Saham_168,18.199.862.451,Utama
+169,Saham_169,4.523.610.492,Pengembangan
+170,Saham_170,3.221.255.423,Pemantauan Khusus
+171,Saham_171,4.800.000.000,Pengembangan
+172,Saham_172,6.400.000.000,Pengembangan
+173,Saham_173,465.224.000,Pengembangan
+174,Saham_174,5.566.414.000,Pengembangan
+175,Saham_175,10.011.027.656,Pemantauan Khusus
+176,Saham_176,9.242.500.000,Pengembangan
+177,Saham_177,410.000.000,Pengembangan
+178,Saham_178,1.600.000.000,Pengembangan
+179,Saham_179,5.882.353.000,Utama
+180,Saham_180,1.924.088.000,Utama
+181,Saham_181,407.091.703.837,Pemantauan Khusus
+182,Saham_182,3.484.800.000,Utama
+183,Saham_183,1.111.112.000,Pemantauan Khusus
+184,Saham_184,1.015.380.000,Pengembangan
+185,Saham_185,1.277.276.000,Pengembangan
+186,Saham_186,3.665.000.759,Pemantauan Khusus
+187,Saham_187,4.276.655.336,Pengembangan
+188,Saham_188,14.230.399.705,Pengembangan
+189,Saham_189,2.500.000.000,Pengembangan
+190,Saham_190,7.800.760.000,Utama
+191,Saham_191,6.000.000.000,Pengembangan
+192,Saham_192,2.120.000.000,Pemantauan Khusus
+193,Saham_193,6.542.445.783,Pengembangan
+194,Saham_194,4.183.634.000,Pengembangan
+195,Saham_195,840.000.000,Utama
+196,Saham_196,7.101.084.801,Pemantauan Khusus
+197,Saham_197,116.318.076.900,Utama
+198,Saham_198,22.212.194.782,Pemantauan Khusus
+199,Saham_199,3.550.001.452,Pemantauan Khusus
+200,Saham_200,13.518.100.000,Utama
+201,Saham_201,31.275.829.981,Pengembangan
+202,Saham_202,1.517.332.349,Pemantauan Khusus
+203,Saham_203,1.350.904.927,Pemantauan Khusus
+204,Saham_204,11.661.908.000,Utama
+205,Saham_205,1.089.750.000,Pemantauan Khusus
+206,Saham_206,927.780.600,Pengembangan
+207,Saham_207,33.600.000.000,Pemantauan Khusus
+208,Saham_208,13.305.799.387,Pemantauan Khusus
+209,Saham_209,1.224.000.000,Pengembangan
+210,Saham_210,3.994.291.039,Utama
+211,Saham_211,10.849.262.500,Pengembangan
+212,Saham_212,54.907.000.000,Utama
+213,Saham_213,3.099.267.500,Pemantauan Khusus
+214,Saham_214,633.600.000,Pengembangan
+215,Saham_215,207.656.617,Pengembangan
+216,Saham_216,10.539.784.534,Utama
+217,Saham_217,8.780.426.500,Utama
+218,Saham_218,654.351.707,Pengembangan
+219,Saham_219,6.562.497.100,Pengembangan
+220,Saham_220,437.913.588,Pengembangan
+221,Saham_221,5.210.192.000,Utama
+222,Saham_222,5.470.982.941,Utama
+223,Saham_223,20.021.178.779,Utama
+224,Saham_224,11.181.971.732,Pengembangan
+225,Saham_225,1.388.883.283,Pengembangan
+226,Saham_226,3.343.935.022,Pemantauan Khusus
+227,Saham_227,591.828.000,Pengembangan
+228,Saham_228,3.515.602.799,Utama
+229,Saham_229,6.443.379.509,Pengembangan
+230,Saham_230,32.250.810.957,Utama
+231,Saham_231,7.185.992.035,Utama
+232,Saham_232,999.053.167,Pengembangan
+233,Saham_233,1.129.925.000,Utama
+234,Saham_234,16.232.951.842,Pengembangan
+235,Saham_235,756.000.000,Pengembangan
+236,Saham_236,2.329.040.482,Pengembangan
+237,Saham_237,16.308.519.860,Utama
+238,Saham_238,11.726.575.201,Utama
+239,Saham_239,12.910.719.100,Utama
+240,Saham_240,7.257.871.200,Utama
+241,Saham_241,2.318.736.000,Pengembangan
+242,Saham_242,6.852.050.000,Utama
+243,Saham_243,5.566.589.577,Pengembangan
+244,Saham_244,587.152.700,Pemantauan Khusus
+245,Saham_245,4.007.235.107,Utama
+246,Saham_246,1.120.000.000,Pengembangan
+247,Saham_247,1.742.167.907,Pengembangan
+248,Saham_248,8.687.995.734,Pemantauan Khusus
+249,Saham_249,1.620.000.000,Pengembangan
+250,Saham_250,14.929.100.000,Pemantauan Khusus
+251,Saham_251,276.000.000,Pengembangan
+252,Saham_252,20.824.888.369,Utama
+253,Saham_253,5.000.000.000,Utama
+254,Saham_254,46.813.391.540,Utama
+255,Saham_255,2.272.500.000,Pengembangan
+256,Saham_256,980.843.732,Pemantauan Khusus
+257,Saham_257,312.000.000,Pengembangan
+258,Saham_258,697.266.668,Pengembangan
+259,Saham_259,99.857.559.263,Utama
+260,Saham_260,19.346.396.900,Pengembangan
+261,Saham_261,18.208.470.100,Pemantauan Khusus
+262,Saham_262,3.966.350.139,Pengembangan
+263,Saham_263,5.630.000.914,Pemantauan Khusus
+264,Saham_264,5.799.616.328,Pengembangan
+265,Saham_265,2.863.195.484,Pengembangan
+266,Saham_266,520.160.000,Pengembangan
+267,Saham_267,787.851.525,Pemantauan Khusus
+268,Saham_268,1.008.517.669,Pengembangan
+269,Saham_269,96.000.000,Pemantauan Khusus
+270,Saham_270,5.134.685.692,Pengembangan
+271,Saham_271,3.000.000.000,Pengembangan
+272,Saham_272,425.000.000,Pengembangan
+273,Saham_273,70.898.018.369,Utama
+274,Saham_274,1.170.432.803,Pengembangan
+275,Saham_275,2.258.279.280,Utama
+276,Saham_276,2.588.250.000,Pengembangan
+277,Saham_277,350.000.022,Pengembangan
+278,Saham_278,6.819.963.965,Utama
+279,Saham_279,1.560.000.000,Utama
+280,Saham_280,9.000.000.004,Pemantauan Khusus
+281,Saham_281,2.238.750.000,Utama
+282,Saham_282,16.600.000.000,Utama
+283,Saham_283,25.906.179.152,Utama
+284,Saham_284,1.227.271.952,Pengembangan
+285,Saham_285,1.750.026.639,Utama
+286,Saham_286,1.070.000.000,Pengembangan
+287,Saham_287,37.540.533.209,Utama
+288,Saham_288,39.215.538.400,Pemantauan Khusus
+289,Saham_289,24.472.983.771,Utama
+290,Saham_290,12.533.067.322,Pengembangan
+291,Saham_291,7.632.167.798,Pemantauan Khusus
+292,Saham_292,25.136.231.252,Utama
+293,Saham_293,11.623.514.905,Utama
+294,Saham_294,448.000.000,Pengembangan
+295,Saham_295,17.710.708.194,Pemantauan Khusus
+296,Saham_296,757.581.000,Pemantauan Khusus
+297,Saham_297,3.410.965.825,Pengembangan
+298,Saham_298,600.000.000,Pengembangan
+299,Saham_299,33.435.294.800,Utama
+300,Saham_300,13.907.481.500,Utama
+301,Saham_301,3.961.452.039,Pemantauan Khusus
+302,Saham_302,3.750.526.603,Pengembangan
+303,Saham_303,948.194.000,Pengembangan
+304,Saham_304,2.107.000.000,Utama
+305,Saham_305,6.615.000.000,Utama
+306,Saham_306,15.682.323.987,Utama
+307,Saham_307,1.875.000.000,Pengembangan
+308,Saham_308,6.889.134.608,Utama
+309,Saham_309,15.049.787.710,Utama
+310,Saham_310,4.386.963.276,Utama
+311,Saham_311,12.966.640.084,Pemantauan Khusus
+312,Saham_312,428.000.000,Pengembangan
+313,Saham_313,517.791.681,Utama
+314,Saham_314,1.994.370.480,Pengembangan
+315,Saham_315,12.276.884.585,Utama
+316,Saham_316,31.842.082.852,Pemantauan Khusus
+317,Saham_317,7.655.126.330,Utama
+318,Saham_318,232.848.000,Pemantauan Khusus
+319,Saham_319,2.206.312.500,Pengembangan
+320,Saham_320,22.358.699.725,Utama
+321,Saham_321,7.747.281.949,Pemantauan Khusus
+322,Saham_322,2.350.000.000,Pengembangan
+323,Saham_323,2.523.350.000,Pengembangan
+324,Saham_324,22.198.871.804,Pengembangan
+325,Saham_325,22.715.776.032,Utama
+326,Saham_326,7.403.659.460,Pengembangan
+327,Saham_327,2.496.258.344,Pengembangan
+328,Saham_328,273.200.000,Pemantauan Khusus
+329,Saham_329,2.373.449.165,Pengembangan
+330,Saham_330,2.945.211.000,Pemantauan Khusus
+331,Saham_331,11.307.246.524,Pemantauan Khusus
+332,Saham_332,15.732.874.458,Pengembangan
+333,Saham_333,1.387.500.000,Utama
+334,Saham_334,720.000.000,Utama
+335,Saham_335,21.482.028.246,Pemantauan Khusus
+336,Saham_336,715.000.000,Pengembangan
+337,Saham_337,2.833.417.056,Pengembangan
+338,Saham_338,24.241.508.196,Utama
+339,Saham_339,488.000.000,Pengembangan
+340,Saham_340,568.375.000,Pengembangan
+341,Saham_341,1.599.999.996,Pengembangan
+342,Saham_342,1.200.000.000,Pengembangan
+343,Saham_343,1.184.200.000,Pemantauan Khusus
+344,Saham_344,3.550.000.000,Pemantauan Khusus
+345,Saham_345,23.837.645.998,Utama
+346,Saham_346,38.425.504.906,Pengembangan
+347,Saham_347,4.068.323.920,Utama
+348,Saham_348,32.022.073.293,Utama
+349,Saham_349,26.460.000.000,Pengembangan
+350,Saham_350,1.440.000.000,Pengembangan
+351,Saham_351,10.351.231.636,Pengembangan
+352,Saham_352,11.520.659.250,Utama
+353,Saham_353,550.165.300,Pengembangan
+354,Saham_354,6.199.897.354,Utama
+355,Saham_355,10.086.050.000,Utama
+356,Saham_356,5.314.344.000,Pengembangan
+357,Saham_357,220.808.000,Pengembangan
+358,Saham_358,659.120.000,Pengembangan
+359,Saham_359,48.159.602.400,Utama
+360,Saham_360,11.236.694.298,Pengembangan
+361,Saham_361,4.227.082.500,Utama
+362,Saham_362,7.096.000.000,Utama
+363,Saham_363,1.564.487.500,Pengembangan
+364,Saham_364,2.656.212.826,Pemantauan Khusus
+365,Saham_365,268.800.000,Pengembangan
+366,Saham_366,1.800.000.000,Pengembangan
+367,Saham_367,641.717.510,Pemantauan Khusus
+368,Saham_368,609.130.000,Pengembangan
+369,Saham_369,45.080.600.000,Pemantauan Khusus
+370,Saham_370,13.592.128.209,Pemantauan Khusus
+371,Saham_371,6.186.488.888,Pengembangan
+372,Saham_372,770.000.000,Pengembangan
+373,Saham_373,821.207.512,Pengembangan
+374,Saham_374,17.147.132.545,Utama
+375,Saham_375,822.333.600,Pengembangan
+376,Saham_376,73.970.569.505,Utama
+377,Saham_377,3.600.000,Pemantauan Khusus
+378,Saham_378,2.250.691.100,Pengembangan
+379,Saham_379,1.274.000.000,Pengembangan
+380,Saham_380,14.545.267.990,Pengembangan
+381,Saham_381,1.818.622.000,Utama
+382,Saham_382,1.119.326.168,Pengembangan
+383,Saham_383,30.000.000.000,Utama
+384,Saham_384,13.006.125.000,Utama
+385,Saham_385,442.589.871,Pemantauan Khusus
+386,Saham_386,15.501.310.000,Utama
+387,Saham_387,1.839.102.056,Pemantauan Khusus
+388,Saham_388,1.730.103.217,Pengembangan
+389,Saham_389,6.907.405.000,Pengembangan
+390,Saham_390,585.000.000,Pemantauan Khusus
+391,Saham_391,2.872.193.366,Utama
+392,Saham_392,9.932.534.336,Utama
+393,Saham_393,9.019.381.973,Pemantauan Khusus
+394,Saham_394,4.772.138.237,Pengembangan
+395,Saham_395,16.375.600.000,Utama
+396,Saham_396,6.751.540.089,Utama
+397,Saham_397,6.367.664.717,Utama
+398,Saham_398,3.425.000.000,Pengembangan
+399,Saham_399,16.508.568.358,Utama
+400,Saham_400,12.499.385.782,Pemantauan Khusus
+401,Saham_401,5.758.675.440,Utama
+402,Saham_402,7.059.000.000,Pengembangan
+403,Saham_403,662.400.000,Pengembangan
+404,Saham_404,4.100.317.438,Pengembangan
+405,Saham_405,15.537.591.429,Pemantauan Khusus
+406,Saham_406,12.238.959.990,Pengembangan
+407,Saham_407,20.452.176.844,Pemantauan Khusus
+408,Saham_408,6.020.000.000,Pengembangan
+409,Saham_409,13.564.835.000,Utama
+410,Saham_410,4.705.249.440,Utama
+411,Saham_411,9.525.000.000,Utama
+412,Saham_412,1.170.909.181,Pengembangan
+413,Saham_413,4.800.000.602,Pengembangan
+414,Saham_414,1.310.000.000,Pengembangan
+415,Saham_415,24.811.541.414,Pemantauan Khusus
+416,Saham_416,6.320.776.836,Pengembangan
+417,Saham_417,1.137.579.698,Pemantauan Khusus
+418,Saham_418,1.353.435.000,Pengembangan
+419,Saham_419,10.069.645.750,Pemantauan Khusus
+420,Saham_420,10.223.647.156,Pemantauan Khusus
+421,Saham_421,22.656.999.445,Utama
+422,Saham_422,6.025.373.372,Utama
+423,Saham_423,734.680.000,Pengembangan
+424,Saham_424,402.133.334,Pengembangan
+425,Saham_425,7.310.929.389,Pemantauan Khusus
+426,Saham_426,4.823.076.400,Pemantauan Khusus
+427,Saham_427,918.492.750,Pengembangan
+428,Saham_428,3.552.213.000,Pengembangan
+429,Saham_429,7.447.753.454,Utama
+430,Saham_430,588.000.000,Pengembangan
+431,Saham_431,1.011.774.750,Pemantauan Khusus
+432,Saham_432,3.113.223.570,Utama
+433,Saham_433,99.062.216.600,Utama
+434,Saham_434,57.051.500.000,Utama
+435,Saham_435,1.058.333.250,Pengembangan
+436,Saham_436,8.257.402.931,Utama
+437,Saham_437,3.410.000.000,Utama
+438,Saham_438,10.320.000.000,Pengembangan
+439,Saham_439,59.098.103.731,Utama
+440,Saham_440,86.511.545.092,Pengembangan
+441,Saham_441,3.507.420.034,Utama
+442,Saham_442,49.643.627.934,Pemantauan Khusus
+443,Saham_443,1.200.000.000,Pemantauan Khusus
+444,Saham_444,7.109.300.000,Utama
+445,Saham_445,26.007.494.645,Pemantauan Khusus
+446,Saham_446,3.141.443.831,Pengembangan
+447,Saham_447,2.808.000.000,Pengembangan
+448,Saham_448,800.000.000,Pengembangan
+449,Saham_449,4.509.864.300,Utama
+450,Saham_450,10.398.175.200,Utama
+451,Saham_451,383.331.363,Utama
+452,Saham_452,75.422.200,Pengembangan
+453,Saham_453,2.500.162.344,Pemantauan Khusus
+454,Saham_454,3.730.135.136,Utama
+455,Saham_455,38.150.000.000,Utama
+456,Saham_456,15.217.075.658,Utama
+457,Saham_457,1.553.430.759,Pengembangan
+458,Saham_458,16.464.270.400,Pemantauan Khusus
+459,Saham_459,4.155.602.595,Pengembangan
+460,Saham_460,5.687.353.997,Pengembangan
+461,Saham_461,1.240.923.111,Pengembangan
+462,Saham_462,1.460.554.819,Pengembangan
+463,Saham_463,2.393.710.348,Pemantauan Khusus
+464,Saham_464,2.099.873.760,Utama
+465,Saham_465,39.873.063.858,Pemantauan Khusus
+466,Saham_466,4.460.988.262,Utama
+467,Saham_467,3.481.481.480,Pengembangan
+468,Saham_468,28.806.807.016,Pemantauan Khusus
+469,Saham_469,8.715.466.600,Utama
+470,Saham_470,668.000.089,Pengembangan
+471,Saham_471,1.785.000.000,Pengembangan
+472,Saham_472,2.510.706.263,Pemantauan Khusus
+473,Saham_473,2.719.790.000,Utama
+474,Saham_474,54.476.269.803,Pengembangan
+475,Saham_475,2.420.547.025,Pengembangan
+476,Saham_476,4.175.000.000,Pengembangan
+477,Saham_477,2.003.000.000,Pengembangan
+478,Saham_478,22.581.909.405,Pemantauan Khusus
+479,Saham_479,1.428.571.500,Pengembangan
+480,Saham_480,5.252.644.000,Pemantauan Khusus
+481,Saham_481,5.500.000.000,Pemantauan Khusus
+482,Saham_482,770.000.000,Pemantauan Khusus
+483,Saham_483,6.347.220.000,Pengembangan
+484,Saham_484,16.087.156.000,Utama
+485,Saham_485,1.438.370.465,Pemantauan Khusus
+486,Saham_486,56.780.478.486,Pemantauan Khusus
+487,Saham_487,3.000.000.000,Pengembangan
+488,Saham_488,937.500.000,Utama
+489,Saham_489,3.803.526.210,Pengembangan
+490,Saham_490,45.667.877.639,Utama
+491,Saham_491,2.813.941.985,Pengembangan
+492,Saham_492,15.000.000.000,Utama
+493,Saham_493,9.843.750.000,Pengembangan
+494,Saham_494,24.000.000.000,Utama
+495,Saham_495,37.500.000.000,Pemantauan Khusus
+496,Saham_496,1.829.800.000,Pengembangan
+497,Saham_497,2.750.000.000,Pemantauan Khusus
+498,Saham_498,1.475.363.179,Pengembangan
+499,Saham_499,33.330.000.000,Pemantauan Khusus
+500,Saham_500,8.215.366.379,Pengembangan
+501,Saham_501,9.006.250.000,Pemantauan Khusus
+502,Saham_502,2.387.922.900,Pengembangan
+503,Saham_503,6.437.500.000,Utama
+504,Saham_504,4.605.262.400,Utama
+505,Saham_505,15.365.229.912,Pemantauan Khusus
+506,Saham_506,9.677.752.680,Pengembangan
+507,Saham_507,816.997.053,Pengembangan
+508,Saham_508,3.800.000.310,Utama
+509,Saham_509,11.004.929.322,Pemantauan Khusus
+510,Saham_510,2.530.150.002,Pengembangan
+511,Saham_511,7.250.000.000,Pengembangan
+512,Saham_512,1.075.862.960,Pengembangan
+513,Saham_513,124.835.258.434,Pemantauan Khusus
+514,Saham_514,2.924.486.639,Pengembangan
+515,Saham_515,25.250.000.000,Pemantauan Khusus
+516,Saham_516,867.933.300,Utama
+517,Saham_517,10.224.271.000,Pengembangan
+518,Saham_518,9.572.000.000,Pengembangan
+519,Saham_519,5.417.063.153,Utama
+520,Saham_520,23.646.668.691,Utama
+521,Saham_521,9.252.820.991,Pengembangan
+522,Saham_522,7.500.000.000,Utama
+523,Saham_523,1.000.000.000,Pengembangan
+524,Saham_524,5.885.000.000,Pengembangan
+525,Saham_525,5.284.811.100,Utama
+526,Saham_526,1.166.666.700,Pemantauan Khusus
+527,Saham_527,1.000.000.000,Pengembangan
+528,Saham_528,1.400.000.000,Pemantauan Khusus
+529,Saham_529,832.862.387,Pengembangan
+530,Saham_530,2.032.540.000,Pemantauan Khusus
+531,Saham_531,650.000.000,Pemantauan Khusus
+532,Saham_532,550.000.000,Pengembangan
+533,Saham_533,10.485.050.500,Pemantauan Khusus
+534,Saham_534,1.899.852.850,Pengembangan
+535,Saham_535,651.150.000,Pengembangan
+536,Saham_536,7.626.663.000,Utama
+537,Saham_537,2.700.000.000,Utama
+538,Saham_538,3.393.434.905,Pengembangan
+539,Saham_539,15.365.950.000,Utama
+540,Saham_540,435.000.000,Pengembangan
+541,Saham_541,3.021.875.000,Pengembangan
+542,Saham_542,3.555.575.600,Utama
+543,Saham_543,60.676.178.205,Utama
+544,Saham_544,3.019.200.000,Pemantauan Khusus
+545,Saham_545,421.640.000,Pengembangan
+546,Saham_546,28.504.000.000,Utama
+547,Saham_547,5.000.000.000,Pengembangan
+548,Saham_548,1.818.384.820,Utama
+549,Saham_549,16.198.599.990,Pengembangan
+550,Saham_550,3.534.000.000,Pengembangan
+551,Saham_551,8.318.823.600,Pemantauan Khusus
+552,Saham_552,666.667.500,Pengembangan
+553,Saham_553,3.554.445.700,Pengembangan
+554,Saham_554,7.700.000.148,Pemantauan Khusus
+555,Saham_555,10.887.566.758,Utama
+556,Saham_556,9.350.000.000,Pemantauan Khusus
+557,Saham_557,2.792.620.000,Pemantauan Khusus
+558,Saham_558,2.724.036.581,Pengembangan
+559,Saham_559,18.117.025.598,Utama
+560,Saham_560,1.625.000.000,Pemantauan Khusus
+561,Saham_561,5.405.188.966,Pengembangan
+562,Saham_562,833.333.300,Pengembangan
+563,Saham_563,1.497.576.771,Pengembangan
+564,Saham_564,3.221.750.000,Pemantauan Khusus
+565,Saham_565,9.942.500.000,Pengembangan
+566,Saham_566,1.283.330.000,Pemantauan Khusus
+567,Saham_567,36.897.901.455,Utama
+568,Saham_568,7.500.000.000,Utama
+569,Saham_569,1.912.774.405,Pengembangan
+570,Saham_570,1.203.300.219,Pengembangan
+571,Saham_571,1.375.000.000,Pengembangan
+572,Saham_572,799.414.231,Pemantauan Khusus
+573,Saham_573,1.146.170.959,Pemantauan Khusus
+574,Saham_574,3.351.075.600,Pemantauan Khusus
+575,Saham_575,1.428.571.400,Pengembangan
+576,Saham_576,715.749.640,Pengembangan
+577,Saham_577,3.232.122.640,Pengembangan
+578,Saham_578,1.000.003.979,Pengembangan
+579,Saham_579,870.171.478,Pengembangan
+580,Saham_580,840.000.000,Pengembangan
+581,Saham_581,650.000.000,Pemantauan Khusus
+582,Saham_582,8.120.249.598,Pengembangan
+583,Saham_583,2.010.526.400,Pemantauan Khusus
+584,Saham_584,2.570.000.000,Pengembangan
+585,Saham_585,8.001.111.504,Pengembangan
+586,Saham_586,798.499.394,Pengembangan
+587,Saham_587,3.559.455.924,Pemantauan Khusus
+588,Saham_588,2.084.850.829,Pemantauan Khusus
+589,Saham_589,2.433.379.958,Pemantauan Khusus
+590,Saham_590,5.958.750.000,Pemantauan Khusus
+591,Saham_591,8.388.870.206,Pemantauan Khusus
+592,Saham_592,1.082.575.738,Pengembangan
+593,Saham_593,1.304.272.051,Pengembangan
+594,Saham_594,6.000.000.000,Utama
+595,Saham_595,1.333.333.331,Pengembangan
+596,Saham_596,1.359.934.021,Pengembangan
+597,Saham_597,750.000.000,Pengembangan
+598,Saham_598,500.000.000,Pengembangan
+599,Saham_599,665.000.000,Pemantauan Khusus
+600,Saham_600,940.720.000,Pengembangan
+601,Saham_601,3.125.000.000,Pengembangan
+602,Saham_602,42.197.950.841,Pemantauan Khusus
+603,Saham_603,418.000.000,Pengembangan
+604,Saham_604,1.800.000.000,Pemantauan Khusus
+605,Saham_605,4.126.405.336,Pengembangan
+606,Saham_606,2.100.000.000,Pengembangan
+607,Saham_607,1.300.000.000,Pengembangan
+608,Saham_608,10.546.185.701,Pemantauan Khusus
+609,Saham_609,1.808.221.900,Pengembangan
+610,Saham_610,2.000.000.000,Pemantauan Khusus
+611,Saham_611,3.418.085.290,Pengembangan
+612,Saham_612,1.524.680.000,Pengembangan
+613,Saham_613,3.666.312.500,Utama
+614,Saham_614,5.591.980.103,Pemantauan Khusus
+615,Saham_615,1.666.666.500,Pengembangan
+616,Saham_616,12.111.376.157,Pengembangan
+617,Saham_617,1.000.000.000,Pengembangan
+618,Saham_618,2.197.540.705,Pengembangan
+619,Saham_619,2.463.338.474,Pengembangan
+620,Saham_620,1.375.181.505,Pemantauan Khusus
+621,Saham_621,1.600.000.000,Pengembangan
+622,Saham_622,7.692.307.700,Pengembangan
+623,Saham_623,481.000.000,Pemantauan Khusus
+624,Saham_624,2.475.720.000,Pengembangan
+625,Saham_625,1.109.953.847,Pengembangan
+626,Saham_626,1.285.000.000,Utama
+627,Saham_627,5.624.999.999,Utama
+628,Saham_628,18.850.000.000,Utama
+629,Saham_629,1.000.000.000,Pengembangan
+630,Saham_630,2.125.000.000,Pengembangan
+631,Saham_631,6.633.610.151,Pengembangan
+632,Saham_632,9.412.000.000,Pengembangan
+633,Saham_633,13.755.600.000,Pengembangan
+634,Saham_634,4.156.572.300,Utama
+635,Saham_635,1.500.000.000,Pengembangan
+636,Saham_636,795.859.095,Akselerasi
+637,Saham_637,18.197.283.760,Pengembangan
+638,Saham_638,2.050.000.000,Utama
+639,Saham_639,4.480.741.638,Pengembangan
+640,Saham_640,2.222.222.400,Pengembangan
+641,Saham_641,4.551.457.789,Pengembangan
+642,Saham_642,9.468.359.000,Pengembangan
+643,Saham_643,6.301.930.902,Pemantauan Khusus
+644,Saham_644,878.187.500,Pengembangan
+645,Saham_645,1.200.000.696,Pemantauan Khusus
+646,Saham_646,833.333.000,Pengembangan
+647,Saham_647,10.250.000.000,Utama
+648,Saham_648,4.752.982.378,Pemantauan Khusus
+649,Saham_649,7.150.002.603,Pemantauan Khusus
+650,Saham_650,1.875.000.000,Pemantauan Khusus
+651,Saham_651,1.250.000.000,Pengembangan
+652,Saham_652,816.061.500,Pengembangan
+653,Saham_653,4.800.016.020,Pengembangan
+654,Saham_654,5.000.000.000,Pengembangan
+655,Saham_655,1.431.125.517,Akselerasi
+656,Saham_656,1.256.300.000,Pemantauan Khusus
+657,Saham_657,3.303.400.000,Pemantauan Khusus
+658,Saham_658,1.210.000.000,Pengembangan
+659,Saham_659,5.737.848.882,Pengembangan
+660,Saham_660,1.653.574.499,Akselerasi
+661,Saham_661,771.178.020,Akselerasi
+662,Saham_662,1.435.000.712,Pemantauan Khusus
+663,Saham_663,15.586.909.438,Utama
+664,Saham_664,1.510.200.000,Pengembangan
+665,Saham_665,781.250.000,Utama
+666,Saham_666,2.500.000.000,Pengembangan
+667,Saham_667,3.637.976.068,Utama
+668,Saham_668,800.000.000,Pengembangan
+669,Saham_669,1.000.000.000,Pengembangan
+670,Saham_670,12.691.682.390,Pengembangan
+671,Saham_671,1.575.000.000,Pengembangan
+672,Saham_672,1.435.185.100,Pengembangan
+673,Saham_673,2.162.547.122,Pemantauan Khusus
+674,Saham_674,896.709.596,Akselerasi
+675,Saham_675,1.500.000.000,Pemantauan Khusus
+676,Saham_676,1.250.000.000,Pengembangan
+677,Saham_677,6.708.000.000,Utama
+678,Saham_678,2.588.300.000,Pemantauan Khusus
+679,Saham_679,14.793.174.908,Pengembangan
+680,Saham_680,12.941.176.500,Pemantauan Khusus
+681,Saham_681,2.020.250.000,Pengembangan
+682,Saham_682,3.138.983.000,Utama
+683,Saham_683,45.000.000.000,Pemantauan Khusus
+684,Saham_684,450.000.000,Pengembangan
+685,Saham_685,1.333.334.556,Pengembangan
+686,Saham_686,1.307.734.937,Akselerasi
+687,Saham_687,400.000.975,Pemantauan Khusus
+688,Saham_688,19.852.540.000,Utama
+689,Saham_689,3.240.235.840,Pengembangan
+690,Saham_690,1.514.773.893,Akselerasi
+691,Saham_691,22.222.222.200,Pengembangan
+692,Saham_692,2.130.360.203,Pengembangan
+693,Saham_693,1.904.883.411,Akselerasi
+694,Saham_694,7.571.107.860,Pengembangan
+695,Saham_695,1.103.402.553,Pengembangan
+696,Saham_696,25.235.000.000,Pengembangan
+697,Saham_697,949.868.500,Akselerasi
+698,Saham_698,1.387.737.233,Pengembangan
+699,Saham_699,8.603.416.176,Utama
+700,Saham_700,781.250.000,Akselerasi
+701,Saham_701,10.635.644.907,Pengembangan
+702,Saham_702,2.000.144.838,Pengembangan
+703,Saham_703,103.148.706.067,Ekonomi Baru
+704,Saham_704,2.626.250.000,Pengembangan
+705,Saham_705,454.056.563,Pengembangan
+706,Saham_706,666.741.103,Pengembangan
+707,Saham_707,3.555.560.000,Utama
+708,Saham_708,929.675.000,Pemantauan Khusus
+709,Saham_709,983.557.875,Akselerasi
+710,Saham_710,929.926.282,Pengembangan
+711,Saham_711,17.125.504.000,Pengembangan
+712,Saham_712,15.819.142.767,Utama
+713,Saham_713,1.062.437.500,Akselerasi
+714,Saham_714,1.292.808.150,Pengembangan
+715,Saham_715,1.155.750.000,Pengembangan
+716,Saham_716,83.559.677.444,Utama
+717,Saham_717,6.790.000.000,Pengembangan
+718,Saham_718,2.275.316.111,Pengembangan
+719,Saham_719,7.934.683.000,Utama
+720,Saham_720,1.042.500.000,Akselerasi
+721,Saham_721,1.098.920.000,Pengembangan
+722,Saham_722,29.419.000.000,Pemantauan Khusus
+723,Saham_723,4.375.000.000,Utama
+724,Saham_724,805.992.931,Pengembangan
+725,Saham_725,61.953.555.600,Utama
+726,Saham_726,4.600.000.000,Pemantauan Khusus
+727,Saham_727,807.400.000,Pengembangan
+728,Saham_728,1.850.225.000,Pengembangan
+729,Saham_729,4.705.882.300,Utama
+730,Saham_730,40.882.331.500,Utama
+731,Saham_731,1.347.258.842,Pengembangan
+732,Saham_732,12.746.354.780,Pengembangan
+733,Saham_733,41.360.517.722,Pengembangan
+734,Saham_734,4.800.182.969,Pemantauan Khusus
+735,Saham_735,2.166.666.800,Pengembangan
+736,Saham_736,2.700.064.877,Pengembangan
+737,Saham_737,1.253.000.000,Akselerasi
+738,Saham_738,10.903.372.600,Utama
+739,Saham_739,4.285.440.269,Akselerasi
+740,Saham_740,1.293.916.404,Pengembangan
+741,Saham_741,11.938.622.394,Pengembangan
+742,Saham_742,910.077.764,Pengembangan
+743,Saham_743,1.140.573.267.220,Ekonomi Baru
+744,Saham_744,12.946.530.200,Pengembangan
+745,Saham_745,2.068.526.950,Utama
+746,Saham_746,5.235.316.030,Pemantauan Khusus
+747,Saham_747,8.065.789.529,Akselerasi
+748,Saham_748,1.900.073.314,Akselerasi
+749,Saham_749,5.000.000.000,Pengembangan
+750,Saham_750,5.385.019.201,Pengembangan
+751,Saham_751,7.945.412.700,Utama
+752,Saham_752,2.928.495.000,Pengembangan
+753,Saham_753,1.700.014.594,Pengembangan
+754,Saham_754,2.000.000.000,Pengembangan
+755,Saham_755,5.840.126.500,Pengembangan
+756,Saham_756,1.663.943.474,Pengembangan
+757,Saham_757,8.680.000.000,Utama
+758,Saham_758,787.500.000,Akselerasi
+759,Saham_759,1.070.362.500,Pengembangan
+760,Saham_760,9.230.665.050,Utama
+761,Saham_761,1.235.296.802,Akselerasi
+762,Saham_762,3.128.140.475,Pemantauan Khusus
+763,Saham_763,1.500.000.000,Pemantauan Khusus
+764,Saham_764,7.412.000.000,Pemantauan Khusus
+765,Saham_765,2.548.826.428,Pemantauan Khusus
+766,Saham_766,1.307.530.330,Akselerasi
+767,Saham_767,2.050.020.320,Pengembangan
+768,Saham_768,2.000.000.000,Pengembangan
+769,Saham_769,1.950.000.000,Pengembangan
+770,Saham_770,1.562.500.000,Pengembangan
+771,Saham_771,6.250.000.000,Pengembangan
+772,Saham_772,13.959.422.300,Pengembangan
+773,Saham_773,3.125.000.000,Pengembangan
+774,Saham_774,135.842.883.189,Ekonomi Baru
+775,Saham_775,12.060.428.584,Utama
+776,Saham_776,27.058.850.000,Utama
+777,Saham_777,25.091.882.375,Pengembangan
+778,Saham_778,3.061.341.438,Pengembangan
+779,Saham_779,1.250.023.298,Pengembangan
+780,Saham_780,8.496.000.000,Pengembangan
+781,Saham_781,2.157.000.000,Akselerasi
+782,Saham_782,4.800.425.380,Pengembangan
+783,Saham_783,3.150.000.000,Pengembangan
+784,Saham_784,4.020.338.890,Akselerasi
+785,Saham_785,6.265.193.445,Pengembangan
+786,Saham_786,1.082.526.223,Akselerasi
+787,Saham_787,2.031.643.057,Pengembangan
+788,Saham_788,4.000.000.000,Pengembangan
+789,Saham_789,1.356.250.000,Pengembangan
+790,Saham_790,2.500.000.000,Utama
+791,Saham_791,4.538.067.441,Pengembangan
+792,Saham_792,2.710.000.000,Pengembangan
+793,Saham_793,1.030.080.995,Akselerasi
+794,Saham_794,1.765.625.000,Pengembangan
+795,Saham_795,2.149.942.974,Pengembangan
+796,Saham_796,1.963.000.000,Pengembangan
+797,Saham_797,2.550.011.472,Akselerasi
+798,Saham_798,6.195.047.377,Pengembangan
+799,Saham_799,14.110.256.623,Akselerasi
+800,Saham_800,3.055.737.049,Pengembangan
+801,Saham_801,806.000.000,Akselerasi
+802,Saham_802,6.078.729.117,Pengembangan
+803,Saham_803,2.602.852.170,Akselerasi
+804,Saham_804,41.815.763.396,Utama
+805,Saham_805,6.635.551.959,Pengembangan
+806,Saham_806,14.741.500.000,Pemantauan Khusus
+807,Saham_807,4.725.101.522,Utama
+808,Saham_808,3.169.200.000,Pengembangan
+809,Saham_809,8.033.527.260,Pemantauan Khusus
+810,Saham_810,2.951.328.448,Pengembangan
+811,Saham_811,112.418.900.000,Utama
+812,Saham_812,23.801.568.645,Pengembangan
+813,Saham_813,1.894.375.000,Pengembangan
+814,Saham_814,2.468.314.616,Akselerasi
+815,Saham_815,3.262.520.106,Pengembangan
+816,Saham_816,3.480.581.727,Pengembangan
+817,Saham_817,2.000.014.587,Pengembangan
+818,Saham_818,8.751.668.239,Utama
+819,Saham_819,3.644.415.975,Pengembangan
+820,Saham_820,9.610.099.981,Pengembangan
+821,Saham_821,43.750.000.000,Pengembangan
+822,Saham_822,5.727.832.195,Akselerasi
+823,Saham_823,72.518.217.656,Utama
+824,Saham_824,2.892.000.000,Pengembangan
+825,Saham_825,1.547.184.978,Akselerasi
+826,Saham_826,1.600.031.683,Akselerasi
+827,Saham_827,3.571.451.815,Pemantauan Khusus
+828,Saham_828,22.374.111.088,Pengembangan
+829,Saham_829,16.666.000.000,Utama
+830,Saham_830,1.250.000.000,Pengembangan
+831,Saham_831,83.345.000.000,Pengembangan
+832,Saham_832,4.091.357.544,Pengembangan
+833,Saham_833,1.040.740.800,Akselerasi
+834,Saham_834,7.375.720.674,Pengembangan
+835,Saham_835,1.075.027.288,Pengembangan
+836,Saham_836,5.187.500.000,Utama
+837,Saham_837,6.710.949.429,Pengembangan
+838,Saham_838,3.142.950.585,Pengembangan
+839,Saham_839,650.008.775,Akselerasi
+840,Saham_840,18.062.480.011,Pengembangan
+841,Saham_841,1.460.007.754,Akselerasi
+842,Saham_842,2.650.000.000,Pengembangan
+843,Saham_843,2.616.226.706,Pengembangan
+844,Saham_844,1.006.080.721,Akselerasi
+845,Saham_845,5.290.298.067,Pengembangan
+846,Saham_846,4.465.269.038,Pengembangan
+847,Saham_847,2.167.514.856,Pengembangan
+848,Saham_848,133.786.220.000,Utama
+849,Saham_849,10.721.835.562,Pengembangan
+850,Saham_850,2.861.333.000,Pengembangan
+851,Saham_851,1.100.011.289,Akselerasi
+852,Saham_852,1.750.040.072,Akselerasi
+853,Saham_853,1.459.234.110,Pengembangan
+854,Saham_854,3.139.416.200,Utama
+855,Saham_855,1.684.662.500,Pengembangan
+856,Saham_856,4.000.000.000,Pengembangan
+857,Saham_857,6.334.375.000,Pengembangan
+858,Saham_858,6.250.000.000,Pengembangan
+859,Saham_859,1.000.000.000,Pengembangan
+860,Saham_860,8.750.000.000,Pengembangan
+861,Saham_861,6.666.666.700,Pengembangan
+862,Saham_862,4.375.277.300,Pengembangan
+863,Saham_863,1.562.574.308,Pengembangan
+864,Saham_864,15.825.800.000,Utama
+865,Saham_865,3.250.000.000,Pengembangan
+866,Saham_866,2.235.502.042,Akselerasi
+867,Saham_867,4.593.005.014,Pengembangan
+868,Saham_868,2.525.000.000,Pengembangan
+869,Saham_869,1.127.497.572,Pengembangan
+870,Saham_870,3.075.000.000,Pengembangan
+871,Saham_871,2.539.601.000,Pengembangan
+872,Saham_872,3.750.000.000,Pengembangan
+873,Saham_873,6.199.577.693,Pengembangan
+874,Saham_874,1.375.000.000,Pengembangan
+875,Saham_875,3.287.375.000,Pengembangan
+876,Saham_876,3.025.037.353,Pengembangan
+877,Saham_877,800.000.000,Akselerasi
+878,Saham_878,2.751.991.249,Pengembangan
+879,Saham_879,19.486.760.000,Utama
+880,Saham_880,1.390.013.370,Pengembangan
+881,Saham_881,8.890.206.400,Pengembangan
+882,Saham_882,2.500.000.000,Pengembangan
+883,Saham_883,3.950.000.000,Pengembangan
+884,Saham_884,1.725.000.000,Pengembangan
+885,Saham_885,4.112.500.000,Pengembangan
+886,Saham_886,1.907.000.000,Pemantauan Khusus
+887,Saham_887,4.765.648.183,Pengembangan
+888,Saham_888,1.997.000.000,Utama
+889,Saham_889,3.501.680.000,Pengembangan
+890,Saham_890,3.327.390.877,Pengembangan
+891,Saham_891,7.786.891.760,Utama
+892,Saham_892,25.190.392.000,Utama
+893,Saham_893,2.137.831.800,Pengembangan
+894,Saham_894,2.715.053.800,Pengembangan
+895,Saham_895,3.424.687.500,Pengembangan
+896,Saham_896,6.500.000.000,Pengembangan
+897,Saham_897,994.603.036,Pengembangan
+898,Saham_898,5.882.353.000,Utama
+899,Saham_899,5.668.944.500,Utama
+900,Saham_900,680.376.575,Pengembangan
+901,Saham_901,4.084.435.300,Utama
+902,Saham_902,2.712.000.000,Pengembangan
+903,Saham_903,1.482.353.000,Utama
+904,Saham_904,14.705.882.400,Pengembangan
+905,Saham_905,124.829.374.700,Pengembangan
+906,Saham_906,3.379.487.200,Utama
+907,Saham_907,1.035.132.500,Pengembangan
+908,Saham_908,4.113.331.485,Pengembangan
+909,Saham_909,5.800.000.000,Pengembangan
+910,Saham_910,16.180.232.675,Pengembangan
+911,Saham_911,1.920.000.000,Pengembangan
+912,Saham_912,3.125.000.000,Pengembangan
+913,Saham_913,33.558.047.450,Pengembangan
+914,Saham_914,2.075.800.000,Pengembangan
+915,Saham_915,8.544.488.700,Utama
+916,Saham_916,8.918.359.270,Pengembangan
+917,Saham_917,14.012.825.000,Utama
+918,Saham_918,2.550.140.892,Pengembangan
+919,Saham_919,853.423.236,Pengembangan
+920,Saham_920,7.431.530.800,Pengembangan
+921,Saham_921,681.823.317,Pengembangan
+922,Saham_922,2.425.354.179,Pengembangan
+923,Saham_923,3.440.455.528,Pengembangan
+924,Saham_924,3.873.500.000,Pengembangan
+925,Saham_925,33.250.000.000,Pengembangan
+926,Saham_926,3.426.097.190,Pengembangan
+927,Saham_927,63.098.600.000,Utama
+928,Saham_928,1.434.052.006,Akselerasi
+929,Saham_929,3.435.000.000,Pengembangan
+930,Saham_930,107.995.419.900,Utama
+931,Saham_931,6.813.620.000,Utama
+932,Saham_932,7.738.891.036,Pengembangan
+933,Saham_933,1.771.499.039,Pengembangan
+934,Saham_934,6.082.020.000,Pengembangan
+935,Saham_935,5.882.352.900,Pengembangan
+936,Saham_936,2.328.153.048,Pengembangan
+937,Saham_937,3.469.345.537,Pengembangan
+938,Saham_938,3.812.569.941,Akselerasi
+939,Saham_939,5.308.549.015,Pengembangan
+940,Saham_940,3.629.411.800,Pengembangan
+941,Saham_941,2.383.745.900,Pengembangan
+942,Saham_942,2.841.262.838,Pengembangan
+943,Saham_943,1.250.000.000,Pengembangan
+944,Saham_944,2.898.261.693,Pengembangan
+945,Saham_945,1.235.803.109,Pengembangan
+946,Saham_946,3.889.179.559,Pengembangan
+947,Saham_947,29.389.689.400,Utama
+948,Saham_948,3.066.660.000,Pengembangan
+949,Saham_949,24.493.093.216,Utama
+950,Saham_950,47.367.057.874,Pengembangan
+951,Saham_951,4.900.000.000,Pengembangan
+952,Saham_952,220.000.000,Pengembangan
+953,Saham_953,797.813.496,Pengembangan
+954,Saham_954,2.495.753.334,Pemantauan Khusus
+955,Saham_955,2.341.366.264,Pemantauan Khusus
+956,Saham_956,61.675.671.883,Pemantauan Khusus
