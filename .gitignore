@@ -1,0 +1,51 @@
+# ====================================================================
+# STANDARD PYTHON IGNORES
+# ====================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv
+venv/
+ENV/
+.env
+.vscode/
+.ipynb_checkpoints
+.idea/
+.DS_Store
+Thumbs.db
+
+# ====================================================================
+# CUSTOM PROJECT RULES: INDONESIAN MID-CAP ANALYZER
+# ====================================================================
+
+# 1. SECURITY
+# Keep your local paths and API keys private
+2_Code/config.py
+
+# 2. DATA HIDING (Protecting Raw & Ingested Files)
+# We ignore the *contents* of these folders to keep GitHub clean
+1_Data/0_Raw_Data/**/*
+1_Data/1_Ingestion_Ringkasan_Perdagangan_Saham/**/*
+1_Data/3_Cleaning_Data/**/*
+
+# 3. FOLDER VISIBILITY (The .gitkeep Trick)
+# We tell Git NOT to ignore .gitkeep files so the folders stay visible
+!1_Data/**/.gitkeep
+
+# 4. PORTFOLIO DATA (The Exception)
+# We want to show your Masked Data so people see your work!
+!1_Data/2_Masked_Data/
+!1_Data/2_Masked_Data/**/*
+!1_Data/2_Masked_Data/**/*.csv
+
+# 5. GLOBAL SAFETY NET
+# Ignore all Excel and CSV files everywhere else by default
+*.xlsx
+*.csv
+# Re-confirm the exception for your Masked folder
+!1_Data/2_Masked_Data/**/*.csv
