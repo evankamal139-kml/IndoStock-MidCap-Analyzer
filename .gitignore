@@ -34,9 +34,11 @@ Thumbs.db
 *.csv
 
 # Ignore contents of these specific processing folders
-1_Data/0_Raw_Data/**/*
+1_Data/0_Raw_Data/**/*.xlsx
+1_Data/0_Raw_Data/**/*.csv
 1_Data/1_Ingestion_Ringkasan_Perdagangan_Saham/**/*
 1_Data/3_Cleaning_Data/**/*
+1_Data/4_EDA_Data/**/*
 
 # ====================================================================
 # 3. EXCEPTIONS (Files we WANT to show)
