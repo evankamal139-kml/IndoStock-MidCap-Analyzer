@@ -36,6 +36,7 @@ Thumbs.db
 # 3. FOLDER VISIBILITY (The .gitkeep Trick)
 # We tell Git NOT to ignore .gitkeep files so the folders stay visible
 !1_Data/**/.gitkeep
+!1_Data/0_Raw_Data/**/.gitkeep
 
 # 4. PORTFOLIO DATA (The Exception)
 # We want to show your Masked Data so people see your work!
